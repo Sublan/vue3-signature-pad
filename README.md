@@ -4,11 +4,19 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
 
+Instructions : -----------------
+
 Clone repo .
 
 npm i 
 
-Node version : 20.9
+npm run dev
 
+Demo SS :
+
+ ![signature demo](https://github.com/user-attachments/assets/163f2363-ab22-4f9c-b045-94dc531e8fdd)
+
+
+Node version : 20.9
 Vue : 3
 
